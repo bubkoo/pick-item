@@ -27,11 +27,11 @@ var pickItem = require('pick-item');
 
 // pickItem(array);
 
+pickItem([1, 2, 3]); // => 2
+pickItem([1]);       // => 1
+pickItem([]);        // => undefined
 pickItem();          // => undefined
 pickItem(null);      // => null
-pickItem([]);        // => undefined
-pickItem([1]);       // => 1
-pickItem([1, 2, 3]); // => 2
 ```
 
 ## Related
