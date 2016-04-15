@@ -1,6 +1,6 @@
 {
   "name": "pick-item",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Randomly sampling a item from an array.",
   "main": "index.js",
   "scripts": {
@@ -32,12 +32,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/pick-item.git"
+    "url": "git+https://github.com/mock-end/pick-item.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/pick-item/issues"
+    "url": "https://github.com/mock-end/pick-item/issues"
   },
-  "homepage": "https://github.com/bubkoo/pick-item#readme",
+  "homepage": "https://github.com/mock-end/pick-item#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
