@@ -1,7 +1,7 @@
 {
   "name": "pick-item",
-  "version": "1.0.1",
-  "description": "Randomly sampling a item from an array.",
+  "version": "1.0.2",
+  "description": "Given an array, pick a random element and return it.",
   "main": "index.js",
   "scripts": {
     "lint": "jshint index.js",
@@ -14,16 +14,18 @@
   "keywords": [
     "pick",
     "sampling",
-    "array",
-    "arr",
     "item",
-    "items",
+    "array",
     "array-like",
-    "shuffle",
+    "generator",
+    "generate",
     "random",
     "randomly",
     "randomize",
-    "rand"
+    "chance",
+    "test",
+    "dice",
+    "mock"
   ],
   "license": "MIT",
   "author": {
@@ -47,6 +49,6 @@
   },
   "dependencies": {
     "is-array-like": "^1.1.0",
-    "random-index": "^1.0.0"
+    "random-index": "^1.0.1"
   }
 }
