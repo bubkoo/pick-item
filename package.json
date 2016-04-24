@@ -1,6 +1,6 @@
 {
   "name": "pick-item",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Given an array, pick a random element and return it.",
   "main": "index.js",
   "scripts": {
