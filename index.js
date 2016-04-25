@@ -14,5 +14,5 @@ module.exports = function (arr) {
     return undefined;
   }
 
-  return arr[randomIndex(length - 1)];
+  return arr[randomIndex({ max: length - 1 })];
 };
